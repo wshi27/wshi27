@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! I'm Weiwei 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wshi27&hide=objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
